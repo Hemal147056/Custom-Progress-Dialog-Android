@@ -23,7 +23,6 @@ public class CustomProgressDialog extends ProgressDialog {
         DrawingView drawingView = new DrawingView(context,true,"#51A0E0","#63C1CE");
         setContentView(drawingView);
         drawingView.displayProgress();
-
     }
 
     @Override

@@ -5,6 +5,7 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/text"
         android:text="Custom Progress Dialog"
         android:layout_width="wrap_content"
         android:layout_centerHorizontal="true"
@@ -14,7 +15,10 @@
         android:id="@+id/showDialog"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/text"
+        android:layout_marginTop="50dip"
+        android:background="@drawable/button_selector"
         android:text="Show Dialog"/>
 
 </RelativeLayout>
