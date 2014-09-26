@@ -11,6 +11,8 @@ Application screenshot:
 <img src="https://github.com/ManolescuSebastian/Custom-Progress-Dialog-Android/blob/master/screenshots/screen_shot3.png" height="380px" />
 </center>
 
+Application progress arc was created using canvas. 
+
 Future Implementation:
 
     Unit Testing
