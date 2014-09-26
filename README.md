@@ -11,3 +11,9 @@ Application screenshot:
 <img src="https://github.com/ManolescuSebastian/Custom-Progress-Dialog-Android/blob/master/screenshots/screen_shot3.png" height="380px" />
 </center>
 
+Future Implementation:
+
+    Unit Testing
+    Bugfixing
+    Redesign
+    
